@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/automatic-invention/static/css/main.308df2f2.css",
+    "main.js": "/automatic-invention/static/js/main.eca91367.js",
+    "index.html": "/automatic-invention/index.html",
+    "main.308df2f2.css.map": "/automatic-invention/static/css/main.308df2f2.css.map",
+    "main.eca91367.js.map": "/automatic-invention/static/js/main.eca91367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.308df2f2.css",
+    "static/js/main.eca91367.js"
+  ]
+}
